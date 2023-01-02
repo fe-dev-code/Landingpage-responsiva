@@ -55,6 +55,11 @@ body {
   color: var(--orange);
 }
 
+.navigation i{
+    cursor: pointer;
+    font-size: 1.5rem;
+}   
+
 .menu {
   cursor: pointer;
   display: none;
